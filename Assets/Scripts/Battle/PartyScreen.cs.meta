@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36a5725f0a536944daf233bc7fda32b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - messageText: {instanceID: 0}
+  - backButton: {instanceID: 0}
+  - partyButtonContainer: {fileID: 7853787954897841579, guid: d13d45ddbc50c6241941b6bfb88311ff, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

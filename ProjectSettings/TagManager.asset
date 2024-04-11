@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SolidObjects
+  - LongGrass
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2193127279
+    locked: 0
+  - name: Obstacles
+    uniqueID: 3591636225
+    locked: 0
+  - name: Player
+    uniqueID: 492793323
+    locked: 0
+  - name: Canvas
+    uniqueID: 2373579115
+    locked: 0
+  - name: LongGrass
+    uniqueID: 4093190681
+    locked: 0

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fc2cbc9881d8e6428e671ec4ba3e317, type: 3}
+  m_Name: Mooslash
+  m_EditorClassIdentifier: 
+  fablename: Mooslash
+  description: 
+  frontsprite: {fileID: 346380702, guid: ff5b04d52b42617419d9cf009e59cb72, type: 3}
+  backsprite: {fileID: -1821434814, guid: ff5b04d52b42617419d9cf009e59cb72, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 75
+  attack: 80
+  defense: 85
+  spAttack: 90
+  spDefense: 100
+  speed: 50
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 2a5fa1b82993c7b4b9cbe5be2de43bca, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 9a81723f642435b4aa3760f0aaaf44e4, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: 9a81723f642435b4aa3760f0aaaf44e4, type: 2}
+    level: 7
